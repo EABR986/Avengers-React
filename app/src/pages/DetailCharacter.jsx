@@ -8,7 +8,7 @@ const DetailCharacter = () => {
 const {id} = useParams()
 
 const getCharacter = async () => {
-  const data = await fetch(`https://avengers-server.onrender.com/characters${id}`).then(
+  const data = await fetch(`https://avengers-server.onrender.com/characters/${id}`).then(
     (res) => res.json()
   );
   setCharacter(data);
