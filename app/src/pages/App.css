@@ -1,0 +1,263 @@
+@font-face {
+  font-family: Avengeance Heroic Avenger ;
+  src: url('../../public/fonts/AvengeanceHeroicAvengerBold-MM2J.ttf') format('ttf');
+}
+
+
+
+
+#root {
+
+  margin: 0 auto;
+
+  text-align: center;
+  font-family: Avengeance Heroic Avenger, Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color-scheme: light dark;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  
+  
+    margin: 0;
+    padding: 2rem;
+
+ 
+  
+}
+.githubImg{
+  width: 40%;
+  height: 40%;
+  object-fit: cover;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem; 
+  padding-top:0 2rem;
+  gap: 13px;
+  font-size:2.5rem;
+}
+
+a {
+  width: 40%;
+  height: 40%;
+  object-fit: cover;
+  border-radius: 50%;
+  cursor: pointer;
+  color: antiquewhite;
+  text-decoration: unset;
+  
+
+
+}
+.navBar:hover {
+  color: #535bf2;
+  font-size: 40px;
+  transition: 0.5s;
+}
+
+
+
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+
+ 
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+
+  .avengersLogo{
+    width: 30rem;
+    height:30rem;
+    object-fit: cover;
+  
+    cursor: pointer;
+  }
+
+.card{
+ margin-top: 13%;
+  border-radius: 8px;
+  font-size: 1rem;
+  width: 377px;
+  height: 318px;
+  gap: 10px;
+}
+
+
+.cardImg{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.characterCard{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+  padding: 2rem;
+  border: 1px solid #fff;
+  border-radius: 8px;
+  font-size: 1rem;
+  width: 200px;
+  height: 200px;
+  gap:5px
+}
+main{
+  display: flex;
+  flex-direction: column;
+  
+ align-items: center;
+}
+.cardDiv{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+  margin-top: 80px;
+    margin-bottom: 80px;
+
+}
+
+
+.app {
+  font-family: sans-serif;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  background-color: gray;
+  text-align: center;
+  margin-top: auto;
+  padding: 8px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.homeText{
+  font-family: Avengeance Heroic Avenger, Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  color: #fff;
+  line-height: 60px;
+  font-weight: 400;
+}
+.gif-container{
+  align-content: flex-end;
+ display: flex;
+ justify-content: center;
+  padding-top: 54px;
+  padding-bottom: 54px
+}
+.gif{
+  border-radius: 36%;
+  width: 50vw;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 45px;
+}
+.addCharacterDiv{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+  padding: 2rem;
+  border: 1px solid #fff;
+  border-radius: 8px;
+  font-size: 1rem;
+  width: 200px;
+  height: 200px;
+  gap:5px
+}
+input {    
+  height: 30px;
+  width: 250px;
+  border-radius: 9px;
+}
+.addBtn{
+  margin-top: 22px
+}
+.card-body{
+  line-height: 1.1;
+  font-size: 30px;
+ 
+}
+.cardImgDetail{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.cardDetail{
+  margin-top: 10%;
+  border-radius: 8px;
+  font-size: 1rem;
+  width: 520px;
+  height: 520px;
+  gap: 10px;
+}
+.cardPreview{
+  margin-top: 8%;
+   border-radius: 8px;
+   font-size: 1rem;
+   width: 600px;
+   height: 600px;
+   gap: 10px;
+ }
+ @media screen and (max-width: 615px){
+
+  .cardPreview, .cardDetail{
+    
+     width: 300px;
+     height:300px; 
+   }
+   .nav{
+      font-size: 1.1rem;
+   }
+}

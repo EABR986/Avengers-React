@@ -1,0 +1,80 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "alias": "IRON MAN",
+      "realName": "Tony Stark",
+      "image": "https://res.cloudinary.com/dvedrbvnw/image/upload/v1665415790/avengers/tony-stark-como-iron-man_3840x2160_xtrafondos.com_nbkemd.jpg",
+      "description": "Inventor Tony Stark applies his genius for high-tech solutions to problems as Iron Man, the armored Avenger."
+    },
+    {
+      "id": 2,
+      "alias": "HULK",
+      "realName": "Bruce Banner",
+      "image": "https://res.cloudinary.com/dvedrbvnw/image/upload/v1665415790/avengers/1004417_hogx5z.jpg",
+      "description": "Exposed to heavy doses of gamma radiation, scientist Bruce Banner transforms into the mean, green rage machine called the Hulk."
+    },
+    {
+      "id": 3,
+      "alias": "THOR",
+      "realName": "Thor Odinson",
+      "image": "https://res.cloudinary.com/dvedrbvnw/image/upload/v1665415789/avengers/674048_ujfupw.jpg",
+      "description": "Thor Odinson wields the power of the ancient Asgardians to fight evil throughout the Nine Realms and beyond."
+    },
+    {
+      "id": 4,
+      "alias": "BLACK WIDOW",
+      "realName": "Natasha Romanoff",
+      "image": "https://res.cloudinary.com/dvedrbvnw/image/upload/v1665415789/avengers/wp766281-winter-soldier-wallpapers_dqyuco.jpg",
+      "description": "A deadly assassin is closing in on Natasha Romanoff. Now Natasha must reunite with an unlikely group of spies from her past in order to survive and stop a lethal force from being unleashed on the world."
+    },
+    {
+      "id": 5,
+      "alias": "BLACK PANTHER",
+      "realName": "King T’Challa ",
+      "image": "https://res.cloudinary.com/dvedrbvnw/image/upload/v1665415789/avengers/wp1869876-black-panther-marvel-wallpapers_oob45z.jpg",
+      "description": "As the king of the African nation of Wakanda, T’Challa protects his people as the latest in a legacy line of Black Panther warriors."
+    },
+    {
+      "id": 6,
+      "alias": "HAWKEYE",
+      "realName": "Clint Barton ",
+      "image": "https://res.cloudinary.com/dvedrbvnw/image/upload/v1665415863/avengers/wp7181259-hawkai-wallpapers_iye5xu.jpg"
+    },
+    {
+      "id": 7,
+      "alias": "SPIDER MAN",
+      "realName": "Peter Parker",
+      "image": "https://res.cloudinary.com/dvedrbvnw/image/upload/v1665415790/avengers/wp10531624-spider-man-2-2004-wallpapers_lql94s.jpg",
+      "description": "With amazing spider-like abilities, teenage science whiz Peter Parker fights crime and dreams of becoming an Avenger as Spider-Man."
+    },
+    {
+      "id": 8,
+      "alias": "SPIDER MAN",
+      "realName": "Miles Morales",
+      "image": "https://res.cloudinary.com/dvedrbvnw/image/upload/v1665415789/avengers/uwp1949847_fhveae.jpg",
+      "description": "In the alternate reality of Earth-1610, a young New York City teen was bitten by a genetically enhanced spider. When the Peter Parker of that dimension was killed, the teen—named Miles Morales—was inspired to take up the fallen mantle."
+    },
+    {
+      "id": 9,
+      "alias": "CAPTAIN AMERICA",
+      "realName": "Steve Rogers",
+      "image": "https://res.cloudinary.com/dvedrbvnw/image/upload/v1665415789/avengers/uwp1882007_z3tkly.jpg",
+      "description": "America’s World War II Super-Soldier continues his fight in the present as an Avenger and untiring sentinel of liberty."
+    },
+    {
+      "id": 10,
+      "alias": "CAPTAIN MARVEL",
+      "realName": "Carol Danvers",
+      "image": "https://res.cloudinary.com/dvedrbvnw/image/upload/v1665415789/avengers/uwp483991_slactv.jpg",
+      "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races."
+    },
+    {
+      "id": "518cdb1b-c3b1-4dc1-a625-f9283f256441",
+      "alias": "Winter Soldier",
+      "realName": "Bucky Barns",
+      "image": "https://res.cloudinary.com/dvedrbvnw/image/upload/v1667234380/avengers/peakpx_1_gkp2ci.jpg",
+      "description": "captain america best friend"
+    }
+  ]
+}
