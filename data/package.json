@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
