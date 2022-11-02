@@ -14,7 +14,7 @@ import Card from './Card';
   
   useEffect(() => {
     (async () => {
-      let data = await fetch(`http://localhost:3000/characters`).then(
+      let data = await fetch(`https://avengers-server.onrender.com/characters`).then(
         (res) => res.json()
       );
     

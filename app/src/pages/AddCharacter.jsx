@@ -30,7 +30,7 @@ const createCharacter = (e) => {
 const postCharacter = async (item) => { 
   axios({
     method: "POST",
-    url: "http://localhost:3000/characters",
+    url: "https://avengers-server.onrender.com/characters",
     data: item,
     }) 
 };
